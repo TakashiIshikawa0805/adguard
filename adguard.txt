@@ -1,7 +1,6 @@
 ||linevoom.line.me^
 ||voom-assets.line-scdn.net^
 ||voom-obs.line-scdn.net^
-||ch-news.line-apps.com^
 ||obs.line-scdn.net^
 ||scdn.line-apps.com^
 ||a.line.me^
